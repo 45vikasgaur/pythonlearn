@@ -1,1 +1,2 @@
-Good Day
+
+print(o.a, o.b, 
