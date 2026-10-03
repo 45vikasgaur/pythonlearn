@@ -1,2 +1,3 @@
 
-print(o.a, o.b, 
+    for item in myList:
+        squaredList.append(ite
