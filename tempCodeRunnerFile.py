@@ -1,3 +1,2 @@
-
-    for item in myList:
-        squaredList.append(ite
+def square(n):
+#     return n*n
